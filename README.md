@@ -60,3 +60,5 @@ Calcula el promedio grupal y quienes tienen una calificacion superior.
 Muestra la tabla del 10 del numero introducido.
 ###Triangulos
 Practicas para imprimir triamgulos de diversas formas.
+###Genio_y_FiguraBeta
+Version temprana del programa.Imprime figuras de asteriscos (reloj de arena, rombo, moño y copa) de tamaño impar entre 5 y 21, rellenas o huecas.
