@@ -3,7 +3,7 @@ Archivo: BlackJack_Tarea5.py
 
 Descripción: BLACKJACK - Jugador contra la banca
 
-Autor: Gálvez Huez Luis Fernando & Lopez Reyes Luis Alexandro
+Autor:  
 
 Fecha: 7/11/2026
 

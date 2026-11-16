@@ -2,7 +2,7 @@
 # Descripcion: Imprime figuras de asteriscos (reloj de arena, rombo, moño y
 # copa) de tamaño impar entre 5 y 21, rellenas o huecas. Tiene un menu para
 # elegir una figura o todas.
-# Autores: Luis Alexandro Lopez Reyes y Luis Fernando Gálvez Huez
+# Autores:
 # Fecha: 31/10/2026
 
 

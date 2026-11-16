@@ -3,7 +3,7 @@ import random
 import os
 
 # Nombre: Número mágico 3
-# Autor: Luis Alexandro López Reyes
+# Autor:
 # Fecha: 17/09/2026
 
 cont = 0
