@@ -1,4 +1,4 @@
-
+#Este programa determina si un carácter introducido por el usuario es una vocal o no.
 import sys
 caracter = input("Introduce un carácter: ")
 if len(caracter) == 1:

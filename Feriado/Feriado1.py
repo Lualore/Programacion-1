@@ -1,3 +1,4 @@
+#Este programa calcula el cambio que se debe dar al cliente en billetes y monedas de feria, dado el precio del articulo y el importe de la compra.
 import sys
 precio = int(input("Precio del articulo: "))
 if precio>0:
